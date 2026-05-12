@@ -1,0 +1,4 @@
+Model,Dimension,Total Latency (s),Latency per Chunk (ms),Hosting Type
+Gemini Embedding 2,768,2.53,168.58,Cloud (API)
+multilingual-e5-large,1024,9.39,626.09,Local (Self-hosted)
+BGE-M3,1024,10.66,710.97,Local (Self-hosted)

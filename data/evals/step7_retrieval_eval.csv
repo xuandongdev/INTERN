@@ -1,0 +1,57 @@
+question,relevant_chunk_ids,notes
+What assumptions are used in the household energy cost analysis?,energy_chunk_0001|energy_chunk_0006|energy_chunk_0011,High-level assumptions and methodology overview
+Which household types are included in the analysis?,energy_chunk_0002|energy_chunk_0004,Household type list on page 2
+In what dollar basis are the results expressed?,energy_chunk_0002|energy_chunk_0004,Real 2026 dollars statement
+What gas usage assumption is made per household?,energy_chunk_0006|energy_chunk_0009,Current usage data assumptions
+What petrol or ICE vehicle assumption is used in the methodology?,energy_chunk_0006|energy_chunk_0007|energy_chunk_0009,Vehicle ownership and fuel efficiency assumptions
+What conservative car ownership assumption does the methodology use?,energy_chunk_0007,Conservative one-car assumption note
+What assumptions are listed for the distribution component?,energy_chunk_0011|energy_chunk_0012,Distribution component assumptions and usage table
+What annual cost assumption is used for EV acquisition?,energy_chunk_0015|energy_chunk_0017,EV acquisition cost rationale
+What cost assumption is used for solar panels and batteries?,energy_chunk_0015|energy_chunk_0018,Solar and battery upfront cost rationale
+What cost assumption is used for wiring costs?,energy_chunk_0015|energy_chunk_0018,Wiring cost rationale
+Which external reports or sources are referenced in the document?,energy_chunk_0020,External sources page
+What assumption is made about replacing gas versus electric appliances?,energy_chunk_0016|energy_chunk_0019,Gas versus electric appliance replacement assumption
+What is the title of the document?,energy_chunk_0000,Document title on page 1
+Who is the source or organization behind the document?,energy_chunk_0000|energy_chunk_0021,AusNet source attribution
+What is the date shown on the assumptions document?,energy_chunk_0000,Date on title page
+What are the three major content sections listed near the start of the report?,energy_chunk_0001|energy_chunk_0003,Purpose methodology and acquisition costs overview
+What kinds of running costs are captured in the analysis?,energy_chunk_0001|energy_chunk_0003,Running costs and solar PV wiring scope
+Are upfront appliance and EV purchase costs included in running costs?,energy_chunk_0001|energy_chunk_0003|energy_chunk_0004,Exclusion of upfront appliance and EV costs
+What usage categories are assessed in the methodology?,energy_chunk_0006|energy_chunk_0009,Electricity gas petrol and EV usage categories
+What source is used for current usage data analysis?,energy_chunk_0006|energy_chunk_0009,Frontier Economics and related sources
+What assumption is made for EV annual distance travelled?,energy_chunk_0006|energy_chunk_0009,EV kilometres per household assumption
+What petrol price assumption is used?,energy_chunk_0007|energy_chunk_0009,Current fuel price assumption
+What wholesale electricity price assumption is used?,energy_chunk_0007|energy_chunk_0009,Wholesale electricity assumption
+What gas price assumption is used in the methodology?,energy_chunk_0007|energy_chunk_0008,Gas price assumption in methodology notes
+What does the report say about electricity and PV usage over time?,energy_chunk_0008|energy_chunk_0010,Electricity PV usage forecast assumption
+What assumptions are made about residential energy delivered and revenue for the distribution component?,energy_chunk_0011,Distribution charge assumptions
+How is the fixed charge treated in the distribution component assumptions?,energy_chunk_0012,Fixed charge trended with CPI
+What is the base daily usage for dual fuel households?,energy_chunk_0012|energy_chunk_0013,Usage table on page 4
+What is the base daily usage for electrified households?,energy_chunk_0012|energy_chunk_0013,Usage table on page 4
+What is the approximate PV profile base usage shown in the table?,energy_chunk_0013|energy_chunk_0014,PV profile base row
+What annual cost is assumed for solar and battery systems over ten years?,energy_chunk_0015|energy_chunk_0018,Solar battery annualized cost
+What annual cost is assumed for wiring over ten years?,energy_chunk_0015|energy_chunk_0018,Wiring annualized cost
+What does the report say about cost parity for EVs?,energy_chunk_0015|energy_chunk_0017,EV cost parity expectation
+What does the report say about gas reticulation versus larger electrical wiring for new homes?,energy_chunk_0016|energy_chunk_0018,Comparison between gas reticulation and electric wiring
+What caution does the report give about appliance purchasing timing?,energy_chunk_0017|energy_chunk_0019,Ownership analysis and timing limitation
+Which page lists the external sources used by the document?,energy_chunk_0020,External sources section location
+What does the report say about the purpose and contents of the analysis?,energy_chunk_0001|energy_chunk_0003,Purpose and contents overview
+Does the report rely on internal and external data sources?,energy_chunk_0001|energy_chunk_0003,Use of internal and external sources
+Are solar PV and wiring costs included in the analysis?,energy_chunk_0001|energy_chunk_0003,Scope of included running costs and wiring
+What example of an external source is explicitly mentioned early in the report?,energy_chunk_0001|energy_chunk_0003,ECA Stepping Up report mention
+How many household vehicles are assumed in the methodology for petrol or ICE cases?,energy_chunk_0006|energy_chunk_0009,Vehicle count assumption
+What fuel efficiency assumption is used for petrol or ICE vehicles?,energy_chunk_0006|energy_chunk_0009,Petrol vehicle fuel efficiency assumption
+What annual travel distance is assumed for petrol or ICE vehicles?,energy_chunk_0006|energy_chunk_0009,Petrol vehicle annual distance assumption
+What annual travel distance is assumed for EV households?,energy_chunk_0006|energy_chunk_0009,EV annual distance assumption repeated in table
+Which organizations are cited as sources for current fuel prices?,energy_chunk_0007|energy_chunk_0009,ACCC ECA CSIRO and AusNet pricing references
+What transmission price assumption is shown in the methodology assumptions?,energy_chunk_0007|energy_chunk_0009,Transmission cost assumption
+What distribution price assumption is shown in the methodology assumptions?,energy_chunk_0007|energy_chunk_0009,Distribution cost assumption
+What retail electricity cost assumption is shown in the methodology assumptions?,energy_chunk_0007|energy_chunk_0008|energy_chunk_0009,Retail electricity cost assumption
+What policy cost assumption is listed in the methodology?,energy_chunk_0007|energy_chunk_0009,Policy cost assumption
+What EV electricity cost assumption is listed in the methodology?,energy_chunk_0007|energy_chunk_0009,EV energy cost assumption
+What note is given about alignment with new EV usage profiles published by AEMO?,energy_chunk_0008,Alignment with AEMO EV usage profiles
+What does the report assume about gas and electricity consumption compared with the Victorian Gas Substitution Roadmap?,energy_chunk_0008,Consumption comparison assumption
+What is the base daily usage for dual fuel plus PV households?,energy_chunk_0012|energy_chunk_0014,Dual fuel plus PV base usage
+What is the base daily usage for electrified household plus PV?,energy_chunk_0012|energy_chunk_0014,Electrified household plus PV base usage
+What is the base usage description for EV only in the table?,energy_chunk_0013|energy_chunk_0014,EV only row in usage table
+What rationale is given for including EV acquisition costs over 10 years?,energy_chunk_0015|energy_chunk_0017,EV rationale and ten year annualization
